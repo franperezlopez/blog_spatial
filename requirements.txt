@@ -1,0 +1,6 @@
+python-citybikes
+pyarrow
+seaborn==0.11.0
+keplergl
+pygeos
+descartes
